@@ -12,9 +12,5 @@ GOTO http://code.google.com/p/simple-openni/ and get the simpleOpenNI library an
 Have fun!
 
 www.thepixelpalace.org/
-
-http://nujus.net/~gh
-http://artistsmeeting.org
-http://turbulence.org/Works/plazaville
-
+http://gh.nujus.net
 www.tomschofieldart.com
