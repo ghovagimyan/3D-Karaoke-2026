@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="3dk_hero.png" width="900" style="border-radius: 8px; border: 1px solid #333;" alt="3D Karaoke Performance by G.H. Hovagimyan">
+  <img src="https://github.com/ghovagimyan/3D-Karaoke-2026/blob/master/3dk_hero.png?raw=true" width="900" alt="3D Karaoke Performance">
+</div>
   <br>
   <p><i><b>3D Karaoke (2012–2026)</b> — Live volumetric performance capture. The body as a digital voxel architecture.</i></p>
 </div>
